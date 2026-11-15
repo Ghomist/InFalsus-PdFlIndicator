@@ -1,0 +1,9 @@
+{
+  "name": "PdFlIndicator",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Ghomist/InFalsus-PdFlIndicator",
+  "description": "局内实时显示 PD/FL 状态与 EXACT/NEAR/BREAK 计数。Live PD / FL status and judgement counts under the recollection bar.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.755"
+  ]
+}
